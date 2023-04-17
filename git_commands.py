@@ -13,3 +13,5 @@
 # git push origin(nazvanie_svyazi)  master(nazvanie_vetki)  -> otpravka versii koda na udalennyi repazitoriy 
 # git clone  <ssh link from where we want to copy / clone the code>  copy repository / clone 
 
+
+# hello we have changed the code and we need to change 
